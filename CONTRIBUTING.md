@@ -9,4 +9,4 @@ you realize bugs before someone else goes to test it too
 
 In general, AI use is okay if it's limited, but as an org of computer nerds for computer nerds, we feel that most of our code should be written 
 by us. 
-Basically: don't vibe code a service or a major change. Ultimately code you submit is owned by you and you should understand it :)
+Basically, don't vibe code a service or a major change. Ultimately code you submit is owned by you and you should understand it :)
