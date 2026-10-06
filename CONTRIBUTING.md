@@ -4,7 +4,7 @@ Hello! We love contributions, members who contribute are the best!
 
 When you start working with any repository, your first step should always be reading that repository's [README.md](README.md) for specific instructions on how to setup and run a service locally so that you can make your super cool awesome changes!
 
-All contributions must follow the contributions policies and CSH [Code of Conduct](https://coc.csh.rit.edu). Please use commit messages that align with both policies. We also recommend (but do not mandate) the use of [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for commit message syntax.
+All contributions must follow the contributions policies and CSH [Code of Conduct](https://coc.csh.rit.edu). Please use commit messages that align with both policies. We also recommend (but do not mandate) the use of [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) for commit message syntax. As for merging the prs, please choose squash when you merge so that our git history stays clean
 
 
 ##Generative AI Policy
@@ -17,7 +17,7 @@ Do not leave the first review of AI generated changes to the reviewers. Verify t
 
 When responding to review comments, you must do so without relying on AI tools. Reviewers want to engage directly with you, not with generated responses. If you do not engage directly with reviewers, the PR will be closed.
 
-We are Computer Science House and one of the main parts of CSH is learning. This policy was created because we want to encourage all learning across the board. Banning generative AI (Gen AI) outright would remove the ability for CSHers to learn about Gen AI, the tooling commonly used in the industry, and workflow practices with the assistance of Gen AI tools. However, being an organization of computer nerds for computer nerds, the majority of our codebases should be written by members of CSH, and all of it should be understood by the member(s) authoring the PR. Gen AI can't sign a CoC, so it can't contribute to House Services.
+This policy was created to encourage learning and experimentation with generative AI (GenAI). To outright ban GenAI would bar CSHers from learning about it and the associated tooling and workflows present in the CS industry. However, the purpose of CSH is to foster learning about computers, so all source code created by us should be understood by its author(s). Additionally, GenAI can't sign a CoC, so it can't contribute to house services.
 
 
 ##Documentation
@@ -30,6 +30,7 @@ If you make changes to any services, and those changes make existing documentati
 
 All changes should be submitted in a pull request (PR) to the development branch (should it exist, otherwise the default branch) of the relevant repository. If you make a PR to the wrong branch, you will be asked to change it before it gets reviewed.
 Additionally, all repositories have a default PR template that should be filled out when creating the PR. If you do not fill the template out, we will ask you to do so before it gets reviewed.
+In general, more frequent, smaller PRs are preferred, and you can make use of github's [stacked prs](https://docs.github.com/en/pull-requests/get-started/about-stacked-prs) to make this easier!
 
 
 ##Questions
